@@ -1,16 +1,17 @@
 body {
-	width: 603px;
 	background-color: #E0E0E0;
 }
-#div1 {
+
+#div3 {
+	clear: both;
 	background-image: url("assets/big_img.jpg");
 	background-repeat: no-repeat;
 	height: 266px;
-	margin: 5px 2px 5px 1px;
+	margin: 10px 0px;
+	padding-left: 10px;
 }
 #p1 {
 	float: left;
-
 }
 #p2 {
 	border-top-style: solid;
