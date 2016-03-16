@@ -29,12 +29,15 @@ body {
 	color: #FFD600;
 	text-decoration: none;
 	font-size: 48px;
+	font-family: 'Source Sans Pro', sans-serif;
 	float: left;
 	padding-left: 10px;
 	padding-bottom: 5px;
 }
 #p1 {
 	float: left;
+	font-size: 17px;
+	font-style: italic;
 }
 #p2 {
 	border-top-style: solid;
