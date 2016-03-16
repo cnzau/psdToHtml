@@ -34,6 +34,13 @@ body {
 	padding-left: 10px;
 	padding-bottom: 5px;
 }
+#p0 {
+	color: #BDBDBD;
+}
+#a1 {
+	text-decoration: none;
+	color: #FFFFFF;
+}
 #p1 {
 	float: left;
 	font-size: 17px;
