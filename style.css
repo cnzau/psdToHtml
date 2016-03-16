@@ -8,6 +8,14 @@ body {
 	height: 75px;
 	padding-bottom: 10px;
 }
+#div1 {
+    float: left;
+}
+#div2 {
+    float: right;
+    padding-top: 35px;
+    padding-right: 10px;
+}
 #div3 {
 	clear: both;
 	background-image: url("assets/big_img.jpg");
