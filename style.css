@@ -24,6 +24,15 @@ body {
 	margin: 10px 0px;
 	padding-left: 10px;
 }
+.logo {
+
+	color: #FFD600;
+	text-decoration: none;
+	font-size: 48px;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
 #p1 {
 	float: left;
 }
