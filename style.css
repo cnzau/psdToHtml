@@ -46,6 +46,21 @@ body {
 	height: 200px;
 	padding-bottom: 10px;
 }
+#div7 {
+	float: left;
+	width: 200px;
+	margin-top: 30px;
+}
+#div8 {
+	float: left;
+	width: 200px;
+	margin-top: 30px;
+}
+#div9 {
+	float: right;
+	width: 200px;
+	margin-top: 30px;
+}
 .logo {
 
 	color: #FFD600;
