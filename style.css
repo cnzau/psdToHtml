@@ -71,6 +71,11 @@ body {
 	float: left;
 	width: 326px;
 }
+#div12 {
+	float: right;
+	margin-bottom: 0px;
+	margin-right: 5px;
+}
 .logo {
 
 	color: #FFD600;
