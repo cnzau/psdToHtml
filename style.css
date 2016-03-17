@@ -67,6 +67,10 @@ body {
 	width: 600px;
 	height: 250px;
 }
+#div11 {
+	float: left;
+	width: 326px;
+}
 .logo {
 
 	color: #FFD600;
