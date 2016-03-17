@@ -110,6 +110,7 @@ body {
 	margin-right: auto;
 	width: 150px;
 	text-align: center;
+	color: #757575;
 }
 #h0 {
 	font-size: 18px;
@@ -120,6 +121,8 @@ body {
 }
 #h1 {
 	text-align: center;
+	color: #212121;
+    font-family: sans-serif;
 }
 #img1 {
 	display: block;
