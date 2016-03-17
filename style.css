@@ -28,7 +28,7 @@ body {
 	background-color: #FFFFFF;
 	width: 600px;
 	margin-bottom: 5px;
-	height: 150px;
+	height: 210px;
 }
 .logo {
 
@@ -63,6 +63,10 @@ body {
 	float: left;
 	font-size: 10px;
 	font-style: italic;
+}
+#p3{
+	padding: 5px 10px;
+	color: #757575;
 }
 #h0 {
 	font-size: 18px;
