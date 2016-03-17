@@ -24,6 +24,12 @@ body {
 	margin: 10px 0px;
 	padding-left: 10px;
 }
+#div4 {
+	background-color: #FFFFFF;
+	width: 600px;
+	margin-bottom: 5px;
+	height: 150px;
+}
 .logo {
 
 	color: #FFD600;
@@ -57,4 +63,11 @@ body {
 	float: left;
 	font-size: 10px;
 	font-style: italic;
+}
+#h0 {
+	font-size: 18px;
+	padding-left: 10px;
+	padding-top: 25px;
+	color: #212121;
+    font-family: sans-serif;
 }
