@@ -87,6 +87,10 @@ body {
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
+#div14 {
+	margin-top: 1px;
+	float: left;
+}
 .logo {
 	color: #FFD600;
 	text-decoration: none;
