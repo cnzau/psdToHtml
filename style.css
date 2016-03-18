@@ -95,6 +95,14 @@ body {
 	float: right;
 	width: 245px;
 }
+#div16 {
+	clear: both;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: #64DD17;
+	width: 600px;
+	height: 120px;
+}
 .logo {
 	color: #FFD600;
 	text-decoration: none;
