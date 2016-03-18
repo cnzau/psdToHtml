@@ -91,6 +91,10 @@ body {
 	margin-top: 1px;
 	float: left;
 }
+#div15 {
+	float: right;
+	width: 245px;
+}
 .logo {
 	color: #FFD600;
 	text-decoration: none;
