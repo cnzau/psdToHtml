@@ -79,6 +79,14 @@ body {
 	margin-bottom: 0px;
 	margin-right: 5px;
 }
+#div13 {
+	clear: both;
+	background-color: #FFFFFF;
+	width: 600px;
+	height: 248px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
 .logo {
 	color: #FFD600;
 	text-decoration: none;
