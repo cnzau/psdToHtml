@@ -4,17 +4,17 @@ body {
 #div0 {
 	background-color: #424242;
 	width: 600px;
-	margin-bottom: 5px;
-	height: 75px;
-	padding-bottom: 10px;
+	margin-bottom: 15px;
+	height: 100px;
+	padding-bottom: 5px;
 }
 #div1 {
     float: left;
 }
 #div2 {
     float: right;
-    padding-top: 35px;
-    padding-right: 10px;
+    padding-top: 60px;
+    padding-right: 15px;
 }
 #div3 {
 	clear: both;
@@ -119,9 +119,9 @@ body {
 	background-color: #424242;
 }
 .logo {
-	color: #FFD600;
+	color: #FFC107;
 	text-decoration: none;
-	font-size: 48px;
+	font-size: 64px;
 	font-family: 'Source Sans Pro', sans-serif;
 	float: left;
 	padding-left: 10px;
@@ -129,6 +129,8 @@ body {
 }
 #p0 {
 	color: #BDBDBD;
+	font-size: 12px;
+	font-family: 'Lato', sans-serif;
 }
 #a1 {
 	text-decoration: none;
