@@ -109,7 +109,14 @@ body {
 	width: 600px;
 	height: 150px;
 	margin-top: 15px;
-	margin-bottom: 15px;
+	margin-bottom: 20px;
+}
+#div18 {
+	width: 600px;
+	height: 110px;
+	margin-top: 15px;
+	margin-bottom: 75px;
+	background-color: #424242;
 }
 .logo {
 	color: #FFD600;
